@@ -1,0 +1,6 @@
+projectKey=course-api-data
+serverUrl=http://localhost:9000
+serverVersion=7.3.0.15553
+dashboardUrl=http://localhost:9000/dashboard?id=course-api-data
+ceTaskId=AWY0HZv-u4GIKItoTk1i
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWY0HZv-u4GIKItoTk1i
